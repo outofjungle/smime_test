@@ -6,3 +6,4 @@ Git repo to test S/MIME commit signing
 
 1. One
 2. Two
+3. Third
